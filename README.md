@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Harsh 👋
 
-<!--
-**harshcode29-sketch/harshcode29-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Developer  
+🌾 Building AI-powered solutions for Agriculture  
+🤖 Passionate about Machine Learning & Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Projects
+- 🌾 Crop Yield Prediction System  
+- 🏙️ Janvaani CRM (Smart City Complaint Management)  
+- 🧪 Soil Nutrient Analysis Tool  
+
+---
+
+## 🛠 Tech Stack
+Python | C | Streamlit | XGBoost | Git | GitHub  
+
+---
+
+## 📈 Current Focus
+- Improving ML skills  
+- Building real-world AI projects  
+- Strengthening Data Structures & Web Development  
